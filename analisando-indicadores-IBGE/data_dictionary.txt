@@ -1,0 +1,39 @@
+id - 77821 
+indicador - Economia - Investimentos em pesquisa e desenvolvimento 
+unidade de medida - % do PIB 
+
+id - 77823 
+indicador - Economia - PIB per capita 
+unidade de medida - US$ 
+
+id - 77824 
+indicador - Economia - População de 15 anos ou mais de idade economicamente ativa 
+unidade de medida - % 
+
+id - 77827 
+indicador - Economia - Total do PIB 
+unidade de medida - US$ 
+
+id - 77831 
+indicador - Indicadores sociais - Índice de desenvolvimento humano 
+
+id - 77832 
+indicador - Indicadores sociais - População com acesso à água potável 
+unidade de medida - % 
+
+id - 77833 
+indicador - Indicadores sociais - População com acesso à rede sanitária 
+unidade de medida - % 
+
+id - 77849 
+indicador - População - População total 
+unidade de medida - habitantes 
+
+id - 77850 
+indicador - População - Taxa bruta de mortalidade 
+unidade de medida - por mil 
+
+id - 77851 
+indicador - População - Taxa bruta de natalidade 
+unidade de medida - por mil 
+
